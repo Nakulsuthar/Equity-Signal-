@@ -28,7 +28,7 @@ built from scratch.
 - [x] Phase 0 — Data sourcing
 - [x] Phase 1 — Theory
 - [x] Phase 2 — EDA & preprocessing
-- [ ] Phase 3 — Linear regression
+- [x] Phase 3 — Linear regression
 - [ ] Phase 4 — Evaluation harness
 - [ ] Phase 5 — Logistic regression
 - [ ] Phase 6 — Analysis
