@@ -29,7 +29,7 @@ built from scratch.
 - [x] Phase 1 — Theory
 - [x] Phase 2 — EDA & preprocessing
 - [x] Phase 3 — Linear regression
-- [ ] Phase 4 — Evaluation harness
+- [x] Phase 4 — Evaluation harness
 - [ ] Phase 5 — Logistic regression
 - [ ] Phase 6 — Analysis
 - [ ] Phase 7 — Writeup
