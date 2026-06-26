@@ -30,9 +30,7 @@ built from scratch.
 - [x] Phase 2 — EDA & preprocessing
 - [x] Phase 3 — Linear regression
 - [x] Phase 4 — Evaluation harness
-- [ ] Phase 5 — Logistic regression
-- [ ] Phase 6 — Analysis
-- [ ] Phase 7 — Writeup
+- [x] Phase 5 — Logistic regression
 
 ## Author
 Nakul — MPhys Physics with Astrophysics, Lancaster University
